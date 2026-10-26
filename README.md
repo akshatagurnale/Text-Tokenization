@@ -30,7 +30,7 @@ A beginner-friendly Natural Language Processing (NLP) project that demonstrates 
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR_USERNAME/Text-Tokenization.git
+   git clone https://github.com/akshatagurnale/Text-Tokenization
 
 2. Navigate to the project directory:
 
